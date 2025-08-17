@@ -1,0 +1,97 @@
+# Gradle files
+.gradle/
+build/
+out/
+
+# Local configuration files
+local.properties
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Spring Boot specific files
+logs/
+logback.xml
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.bak
+
+# Dependency directories
+**/build/
+**/out/
+**/bin/
+**/lib/
+
+# Cache files
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated sources
+/generated/
+**/generated/
+
+# Miscellaneous
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Test results
+/test-results/
+reports/
+coverage/
+*.hprof
+
+# Ignore coverage reports
+coverage/
+*.cov
+*.cover
+
+# Ignore environment files
+.env
+
+# Spring Boot DevTools
+spring-boot-devtools.jar
+
+# Ignore specific Gradle caches (if applicable)
+**/.gradle/
+**/.gradletask/
+
+# Ignore configuration files for IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+
+# Ignore configuration for Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary files
+*.tmp
+*.temp
+*.log

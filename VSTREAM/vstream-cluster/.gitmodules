@@ -1,0 +1,15 @@
+[submodule "vstream-ui"]
+	path = vstream-ui
+	url = https://github.com/Suraj0837/vstream-ui.git
+[submodule "vstream-video-service"]
+	path = vstream-video-service
+	url = https://github.com/Suraj0837/vstream-video-service.git
+[submodule "vstream-user-service"]
+	path = vstream-user-service
+	url = https://github.com/Suraj0837/vstream-user-service.git
+[submodule "vstream-utility-service"]
+	path = vstream-utility-service
+	url = https://github.com/Suraj0837/vstream-utility-service.git
+[submodule "vstream-gateway-service"]
+	path = vstream-gateway-service
+	url = https://github.com/Suraj0837/vstream-gateway-service.git

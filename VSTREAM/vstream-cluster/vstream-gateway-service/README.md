@@ -1,0 +1,4 @@
+# vstream-gateway-service
+
+Init.
+
